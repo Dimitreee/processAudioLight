@@ -1,0 +1,12 @@
+build
+node_modules
+npm-debug.log
+yarn-error.log
+bin
+
+# Editors and IDEs
+.vscode/*
+.idea/*
+!.vscode/snippets
+!.vscode/launch.json
+!.vscode/settings.json
